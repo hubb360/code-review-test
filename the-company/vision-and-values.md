@@ -8,6 +8,8 @@ coverY: 0
 
 ## Our Vision
 
+Simon says I see therefore I am
+
 {% hint style="info" %}
 **Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
 {% endhint %}

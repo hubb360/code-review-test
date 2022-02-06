@@ -10,6 +10,8 @@ coverY: 0
 
 Simon says I see therefore I am
 
+I see what you did there
+
 {% hint style="info" %}
 **Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
 {% endhint %}
